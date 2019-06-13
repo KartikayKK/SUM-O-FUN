@@ -15,16 +15,16 @@ Just remember one thing...
 # Snap_Shots
 1)
 
-![](images/i1.jpeg) 
+![](images/i1.jpg) 
 
 2)
 
-![](images/i2.jpeg) 
+![](images/i2.jpg) 
 
 3)
 
-![](images/i3.jpeg) 
+![](images/i3.jpg) 
 
 4)
 
-![](images/i4.jpeg) 
+![](images/i4.jpg) 
