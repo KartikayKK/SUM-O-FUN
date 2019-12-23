@@ -13,18 +13,5 @@ Just remember one thing...
 **Clock is Always Ticking**
 
 # Snap_Shots
-1)
 
-![](images/i1.jpg) 
-
-2)
-
-![](images/i2.jpg) 
-
-3)
-
-![](images/i3.jpg) 
-
-4)
-
-![](images/i4.jpg) 
+<img src="https://user-images.githubusercontent.com/40910723/71364379-0a9a7800-25c2-11ea-8924-31a4bb303796.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/40910723/71364380-0a9a7800-25c2-11ea-9be8-1ae11a18bd46.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/40910723/71364381-0b330e80-25c2-11ea-8c1d-8666518057ae.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/40910723/71364382-0b330e80-25c2-11ea-852d-1e5e02c4e63d.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/40910723/71364383-0b330e80-25c2-11ea-8979-02268f017bb6.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/40910723/71364384-0bcba500-25c2-11ea-83b5-6c3f24aecf3a.png" width="30%"></img> 
